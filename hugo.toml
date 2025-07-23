@@ -1,0 +1,4 @@
+baseURL = 'https://tonyxwz.github.io/'
+languageCode = 'en-us'
+title = "Weizhou's Garden"
+theme = 'PaperMod'
